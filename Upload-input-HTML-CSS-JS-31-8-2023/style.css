@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Mochiy Pop One', sans-serif;
+	box-sizing: border-box;
+}
+
+.hero {
+	width: 100%;
+	height: 100vh;
+	background: #222;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.card {
+	width: 400px;
+	height: 480px;
+	background: #1e1e1e;
+	padding: 40px;
+	border-radius: 15px;
+	text-align: center;
+	color: #fff;
+}
+
+.card h1 {
+	font-weight: 500;
+	color: #000;
+}
+
+.card img {
+	background-color: #ffffff83;
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+label {
+	display: block;
+	width: 200px;
+	background: #FFBA00;
+	color: #1e1e1e;
+	padding: 12px;
+	margin: 10px auto;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: 0.1s linear;
+}
+
+label:hover {
+	background: #222;
+	color: #fff;
+	border: solid 1px #FFBA00;
+}
+
+input {
+	display: none;
+}
