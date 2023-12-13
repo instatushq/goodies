@@ -1,4 +1,4 @@
-## Upload image using HTML&CSS&JS 31-8-23
+## Magic Navigation Menu
 The result : https://www.tiktok.com/@instatus.com/video/7302398299082886405
 
 Facebook: https://www.facebook.com/InstatusHQ

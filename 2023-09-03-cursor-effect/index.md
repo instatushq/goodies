@@ -1,4 +1,4 @@
-## Upload image using HTML&CSS&JS 31-8-23
+## Cursor effect using HTML&CSS&JS
 The result : https://www.tiktok.com/@instatus.com/video/7274689260710661381
 
 Facebook: https://www.facebook.com/InstatusHQ
